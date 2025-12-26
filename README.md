@@ -22,5 +22,7 @@ Case
 
 
 BOM
+
 Case: $1.35 (~50g PETG)
+
 PCB: ~$5.00
