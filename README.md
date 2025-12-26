@@ -5,6 +5,7 @@ Overall Ehoilpad
 <img width="3296" height="2547" alt="Assembly 2 (1)" src="https://github.com/user-attachments/assets/7998f526-cec8-4236-a54d-1d3dda9b3e94" />
 
 Schematic
+
 <img width="770" height="559" alt="image" src="https://github.com/user-attachments/assets/95a4fe5a-8d82-412b-9529-411e568bba99" />
 
 PCB
